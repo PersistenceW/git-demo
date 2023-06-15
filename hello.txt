@@ -3,4 +3,4 @@ hello,wjy! helllo,git!33333
 hello,wjy! helllo,git!
 hello,wjy! helllo,git!
 hello,wjy! helllo,git! master test
-hello,wjy! helllo,git!
+hello,wjy! helllo,git! hot-fix test
